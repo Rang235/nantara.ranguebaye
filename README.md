@@ -1,150 +1,194 @@
-# 👋 Ranguebaye Nantara  
-## Expert Réseaux, Infrastructures & Sécurité (ERIS) 
+<h1 style="color:#1f6feb;">Ranguebaye Nantara</h1>
 
-🎓 Étudiant en **Mastère Expert Réseaux, Infrastructures et Sécurité (ERIS)** – IMIE Paris  
-💼 En recherche de **stage / alternance / missions IT** en **Administration Systèmes & Réseaux**  
-📍 France | 🌍 Ouvert aux environnements internationaux  
+<h2 style="color:#1f6feb;">Expert Réseaux, Infrastructures & Sécurité (ERIS)</h2>
 
-
-
-## 🚀 À propos de moi
-
-Informaticien de formation, titulaire d’une **Licence en Informatique**, j’ai débuté mon parcours dans le **développement web et applicatif**, où j’ai conçu et maintenu plusieurs sites et solutions numériques pour des entreprises et institutions.
-
-Aujourd’hui, je suis engagé dans une **reconversion stratégique vers l’Administration Systèmes, Réseaux et la Cybersécurité**, renforcée par ma formation **Expert Réseaux Infrastructures et Sécurité** et mes expériences terrain en environnements professionnels (Windows, Linux, Cloud, Réseaux, Sécurité).
-
-👉 Mon objectif : **concevoir, administrer et sécuriser des infrastructures IT fiables, performantes et résilientes**.
-
-
-## 🧠 Compétences clés (ERIS & Développement)
-
-### 🔧 Systèmes & Infrastructures
-- Windows Server, Linux (Debian / Ubuntu)
-- Active Directory : domaines, OU, GPO, permissions
-- Virtualisation : Hyper-V, VMware
-- Supervision & sécurité : Zabbix, Wazuh
-- Support IT N1 / N2, documentation technique
+Étudiant en **Mastère Expert Réseaux, Infrastructures et Sécurité (ERIS)** – IMIE Paris  
+En recherche de **stage, alternance ou missions IT** en **Administration Systèmes & Réseaux**  
+Localisation : France – Ouvert aux environnements internationaux  
 
 ---
 
-### 🌐 Réseaux
-- TCP/IP, VLAN, DHCP, DNS
-- Adressage IP, segmentation réseau
-- VPN, firewall, supervision réseau
+<h2 style="color:#1f6feb;">À propos de moi</h2>
+
+Informaticien de formation, titulaire d’une **Licence en Informatique**, j’ai débuté mon parcours professionnel dans le **développement web et applicatif**, en concevant et maintenant des sites et solutions numériques pour des entreprises et institutions publiques et privées.
+
+Dans une logique d’évolution professionnelle, je me suis engagé dans une **reconversion structurée vers l’Administration Systèmes, Réseaux et la Cybersécurité**, appuyée par ma formation **Expert Réseaux Infrastructures et Sécurité (ERIS)** et par des expériences terrain en environnements professionnels.
+
+Mon objectif est de **concevoir, administrer et sécuriser des infrastructures informatiques fiables, performantes et résilientes**, adaptées aux besoins métiers.
 
 ---
 
-### ☁️ Cloud & Sécurité
-- Microsoft 365 / Azure (bases)
-- Gestion des identités et accès (IAM, MFA)
-- Sécurité des systèmes et réseaux
-- Référentiels : ISO 27001, RGPD, ITIL
+<h2 style="color:#1f6feb;">Compétences clés – ERIS & Développement</h2>
+
+<h3>Systèmes & Infrastructures</h3>
+
+- Windows Server, Linux (Debian / Ubuntu)  
+- Active Directory : domaines, OU, GPO, gestion des permissions  
+- Virtualisation : Hyper-V, VMware  
+- Supervision et sécurité : Zabbix, Wazuh  
+- Support IT niveaux 1 et 2  
+- Rédaction de documentation technique  
 
 ---
 
-### 🤖 Automatisation & Scripting
-- Bash
-- PowerShell
-- Scripts d’administration, maintenance et sécurisation
+<h3>Réseaux</h3>
+
+- Protocoles TCP/IP  
+- VLAN, DHCP, DNS  
+- Adressage IP et segmentation réseau  
+- VPN, firewall et supervision réseau  
 
 ---
 
-### 💻 Développement & Programmation
-- **Langages** : Python, Java, JavaScript
-- **Web** : HTML5, CSS3, JavaScript
-- **Frameworks** : Django, Flask (bases)
-- **Bases de données** : MySQL, PostgreSQL, MongoDB
-- **Conception applicative** : logique métier, API simples
-- **UI / UX** : bases en design d’interface et expérience utilisateur
+<h3>Cloud & Sécurité</h3>
+
+- Microsoft 365 et Azure (bases)  
+- Gestion des identités et des accès (IAM, MFA)  
+- Sécurisation des systèmes et des réseaux  
+- Référentiels et bonnes pratiques : ISO 27001, RGPD, ITIL  
 
 ---
 
-### 🛠️ Outils & Méthodologies
-- Git / GitHub
-- GLPI, Jira, Trello
-- Méthodes ITIL
-- Documentation technique et reporting
+<h3>Automatisation & Scripting</h3>
 
+- Bash  
+- PowerShell  
+- Scripts d’administration, de maintenance et de sécurisation  
 
+---
 
-## 📂 Projets en Administration Systèmes & Réseaux (ERIS)
+<h3>Développement & Programmation</h3>
 
-### 🔐 Active Directory – Infrastructure d’entreprise
-📌 **Objectif** : Déployer et sécuriser un domaine Active Directory  
-- Création de domaine
-- Organisation des OU
-- Mise en place de GPO
-- Gestion des comptes et permissions  
-🔗 Repo : https://github.com/ton-github/active-directory-lab
+- Langages : Python, Java, JavaScript  
+- Développement Web : HTML5, CSS3, JavaScript  
+- Frameworks : Django, Flask (bases)  
+- Bases de données : MySQL, PostgreSQL, MongoDB  
+- Conception applicative : logique métier, API simples  
+- UI / UX : principes de base en conception d’interfaces  
 
-### 🖥️ Virtualisation – Environnement de test IT
-📌 **Objectif** : Concevoir un lab de virtualisation pour tests systèmes  
-- Déploiement de machines virtuelles
-- Hyper-V & VMware
-- Scénarios de pannes et reprise  
-🔗 Repo : https://github.com/ton-github/virtualisation-lab
+---
 
+<h3>Outils & Méthodologies</h3>
 
-### 🌐 Réseau & Supervision
-📌 **Objectif** : Mise en place d’un réseau segmenté et supervisé  
-- VLAN & adressage IP
-- Services réseau (DNS, DHCP)
-- Supervision avec Zabbix  
-🔗 Repo : https://github.com/ton-github/network-monitoring
+- Git et GitHub  
+- GLPI  
+- Jira, Trello  
+- Méthodes ITIL  
+- Reporting et documentation technique  
 
+---
 
+<h2 style="color:#1f6feb;">Projets en Administration Systèmes & Réseaux (ERIS)</h2>
 
-### ☁️ Cloud Microsoft 365 & Azure
-📌 **Objectif** : Gestion des identités et services cloud  
-- Comptes utilisateurs
-- Licences
-- MFA
+<h3>Active Directory – Infrastructure d’entreprise</h3>
+
+Objectif : déployer et sécuriser un domaine Active Directory  
+- Création et configuration du domaine  
+- Organisation des unités organisationnelles (OU)  
+- Mise en place de stratégies de groupe (GPO)  
+- Gestion des comptes utilisateurs et des permissions  
+
+Lien du projet :  
+https://github.com/ton-github/active-directory-lab  
+
+---
+
+<h3>Virtualisation – Environnement de test IT</h3>
+
+Objectif : concevoir un laboratoire de virtualisation pour tests systèmes  
+- Déploiement de machines virtuelles  
+- Utilisation de Hyper-V et VMware  
+- Simulation de scénarios de panne et de reprise  
+
+Lien du projet :  
+https://github.com/ton-github/virtualisation-lab  
+
+---
+
+<h3>Réseau & Supervision</h3>
+
+Objectif : mettre en place un réseau segmenté et supervisé  
+- Configuration des VLAN et de l’adressage IP  
+- Mise en œuvre des services DNS et DHCP  
+- Supervision de l’infrastructure avec Zabbix  
+
+Lien du projet :  
+https://github.com/ton-github/network-monitoring  
+
+---
+
+<h3>Cloud – Microsoft 365 & Azure</h3>
+
+Objectif : gérer les identités et les services cloud  
+- Création et gestion des comptes utilisateurs  
+- Attribution des licences  
+- Mise en place de l’authentification multifacteur (MFA)  
 - Sécurisation des accès  
-🔗 Repo : https://github.com/ton-github/m365-azure-lab
 
+Lien du projet :  
+https://github.com/ton-github/m365-azure-lab  
 
-## 💻 Projets en Développement Web (socle technique)
+---
 
-> Mon expérience en développement web constitue un **atout majeur** pour comprendre les besoins applicatifs, collaborer avec les équipes dev et sécuriser les environnements de production.
+<h2 style="color:#1f6feb;">Projets en Développement Web – Socle technique</h2>
 
-### 🌍 Sites Web professionnels
-- **Caisse des Retraités Civils du Tchad**  
+Mon expérience en développement web constitue un **socle technique solide**, facilitant la compréhension des environnements applicatifs, la collaboration avec les équipes de développement et la sécurisation des systèmes de production.
+
+<h3>Sites Web professionnels réalisés</h3>
+
+- Caisse des Retraités Civils du Tchad  
   https://www.crct.td  
-- **Tchilamby Student (France)**  
+
+- Tchilamby Student (France)  
   https://www.tchilambystudent.com  
-- **Royal Peldji**  
+
+- Royal Peldji  
   http://www.royalpeldji.com  
-- **MoneTech**  
+
+- MoneTech  
   http://www.monetech.td  
 
-📌 Technologies : HTML, CSS, JavaScript, Python, bases de données  
-📌 Rôle : conception, développement, maintenance, hébergement
+Technologies utilisées :  
+- HTML, CSS, JavaScript, Python  
+- Bases de données  
 
+Rôle :  
+- Conception  
+- Développement  
+- Maintenance  
+- Hébergement  
 
-## 🧩 Expériences IT significatives
+---
 
-- **Stagiaire Administration Systèmes & Réseaux – Airtel Tchad**
-  - Administration Windows/Linux
-  - Réseaux LAN, VPN, firewall
-  - Support utilisateurs N1/N2
-  - Documentation technique
+<h2 style="color:#1f6feb;">Expériences IT significatives</h2>
 
-- **Consultant IT – Académie du Nord-Ouest**
-  - Installation et administration des outils IT
-  - Support & maintenance
-  - Solutions numériques
+<h3>Stagiaire Administration Systèmes & Réseaux – Airtel Tchad</h3>
 
-- **Formateur Développement Web**
-  - Transmission des compétences
-  - Encadrement technique
-  - Président de jury
+- Administration de serveurs Windows et Linux  
+- Gestion des réseaux LAN, VPN et firewall  
+- Support utilisateurs niveaux 1 et 2  
+- Rédaction de documentation technique  
 
+---
 
-## 📫 Me contacter
+<h3>Consultant IT – Académie du Nord-Ouest</h3>
 
-📧 Email : rngnan@gmail.com  
-💼 LinkedIn : https://www.linkedin.com/in/ranguebaye-nantara-84957b2b6  
-📍 Localisation : France  
+- Installation et administration des outils informatiques  
+- Support et maintenance des systèmes  
+- Mise en place de solutions numériques  
 
+---
 
-⭐ *Ce portfolio reflète mon évolution vers les métiers de l’Administration Systèmes, Réseaux et Sécurité, avec une base solide en développement et en informatique générale.*
+<h3>Formateur en Développement Web</h3>
+
+- Conception et animation de formations techniques  
+- Encadrement et évaluation des apprenants  
+- Président de jury  
+
+---
+
+<h2 style="color:#1f6feb;">Contact</h2>
+
+Email : rngnan@gmail.com  
+LinkedIn : https://www.linkedin.com/in/ranguebaye-nantara-84957b2b6  
+Localisation : France  
