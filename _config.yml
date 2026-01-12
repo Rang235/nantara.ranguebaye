@@ -1,36 +1,27 @@
-# Informations générales
 title: "RANGUEBAYE Nantara"
 description: "Portfolio Expert Réseaux, Infrastructures et Sécurité (ERIS)"
 lang: fr
 logo: img/05.jpg
 show_downloads: true
 
-# Thème Minimal Mistakes via remote_theme (compatible GitHub Pages)
-remote_theme: mmistakes/minimal-mistakes@4.25
+remote_theme: mmistakes/minimal-mistakes
 
-# Menu de navigation
 navigation:
   - title: "Accueil"
-    url: "/"
+    url: /
   - title: "À propos"
-    url: "/about/"
+    url: /about/
   - title: "Compétences"
-    url: "/skills/"
+    url: /skills/
   - title: "Projets"
-    url: "/projects/"
+    url: /projects/
   - title: "Expériences"
-    url: "/experience/"
+    url: /experience/
   - title: "Contact"
-    url: "/contact/"
+    url: /contact/
 
-# Réseaux sociaux
 social:
-  github: "https://github.com/ton-github"
-  linkedin: "https://www.linkedin.com/in/ranguebaye-nantara-84957b2b6"
+  github: https://github.com/ton-github
+  linkedin: https://www.linkedin.com/in/ranguebaye-nantara-84957b2b6
 
-# Options avancées
 paginate: 5
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
