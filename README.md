@@ -12,8 +12,6 @@ Informaticien de formation, titulaire d’une **Licence en Informatique**, je me
 
 Mon objectif : **concevoir, administrer et sécuriser des infrastructures IT fiables et performantes**.
 
----
-
 ## 💻 Compétences clés
 
 **Systèmes & Infrastructures** : Windows Server, Linux, Active Directory (OU/GPO), Virtualisation Hyper-V/VMware, Zabbix, Wazuh, support IT  
@@ -54,7 +52,6 @@ Mon objectif : **concevoir, administrer et sécuriser des infrastructures IT fia
 
 Technologies : HTML, CSS, JavaScript, Python, Bases de données  
 
----
 
 ## 💼 Expériences professionnelles
 
@@ -67,7 +64,6 @@ Technologies : HTML, CSS, JavaScript, Python, Bases de données
 - **Formateur Développement Web**  
   Conception et animation de formations, encadrement et évaluation  
 
----
 
 ## 📫 Contact
 
@@ -75,7 +71,6 @@ Technologies : HTML, CSS, JavaScript, Python, Bases de données
 - **LinkedIn** : [Ranguebaye Nantara](https://www.linkedin.com/in/ranguebaye-nantara-84957b2b6)  
 - **Localisation** : France  
 
----
 
 ## ⚠️ Note importante
 
@@ -83,7 +78,6 @@ Technologies : HTML, CSS, JavaScript, Python, Bases de données
 > Tous les paramètres sont déjà configurés pour un déploiement GitHub Pages correct.  
 > Tu peux uniquement modifier le contenu des pages (projets, compétences, expériences, contact).
 
----
 
 ## 🚀 Déploiement
 
