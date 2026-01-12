@@ -3,4 +3,5 @@ logo: image/05.jpg
 description: "Portfolio Expert Réseaux, Infrastructures et Sécurité"
 show_downloads: true
 theme: jekyll-theme-minimal-mistakes
+remote_theme: LeNPaul/portfolio-jekyll-theme
 lang: fr
