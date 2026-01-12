@@ -1,33 +1,41 @@
-# Informations du site
+# Informations générales du site
 title: "RANGUEBAYE Nantara"
-description: "Portfolio Expert Réseaux, Infrastructures et Sécurité"
+description: "Portfolio Expert Réseaux, Infrastructures et Sécurité (ERIS)"
 lang: fr
 logo: img/05.jpg
 show_downloads: true
 
-# Thème (compatible GitHub Pages)
+# Thème (GitHub Pages compatible)
 theme: jekyll-theme-minimal-mistakes
-
-# Options du thème Minimal Mistakes
-minimal_mistakes_skin: "air"   # Tu peux changer en 'default', 'air', 'architect', etc.
-minimal_mistakes_version: 4.25 # Compatible avec GitHub Pages
+minimal_mistakes_skin: "air"
+minimal_mistakes_version: 4.25
 
 # Menu de navigation
 navigation:
   - title: "Accueil"
     url: "/"
-  - title: "Projets"
-    url: "/projects/"
+  - title: "À propos"
+    url: "/about/"
   - title: "Compétences"
     url: "/skills/"
+  - title: "Projets"
+    url: "/projects/"
+  - title: "Expériences"
+    url: "/experience/"
   - title: "Contact"
     url: "/contact/"
 
-# Réseaux sociaux (ajoute ceux que tu veux)
+# Réseaux sociaux
 social:
-  github: "https://github.com/tonnomutilisateur"
-  linkedin: "https://www.linkedin.com/in/tonnomutilisateur"
-  twitter: "https://twitter.com/tonnomutilisateur"
+  github: "https://github.com/ton-github"
+  linkedin: "https://www.linkedin.com/in/ranguebaye-nantara-84957b2b6"
+  twitter: "https://twitter.com/ton-twitter"  # si tu veux ajouter
 
-# Options avancées
-paginate: 5           # Nombre d'articles par page si tu ajoutes un blog
+# Blog / pagination (si tu veux ajouter articles)
+paginate: 5
+
+# Options avancées (si besoin)
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
