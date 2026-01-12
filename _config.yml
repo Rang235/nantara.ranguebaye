@@ -1,6 +1,33 @@
+# Informations du site
 title: "RANGUEBAYE Nantara"
 description: "Portfolio Expert Réseaux, Infrastructures et Sécurité"
+lang: fr
 logo: img/05.jpg
 show_downloads: true
+
+# Thème (compatible GitHub Pages)
 theme: jekyll-theme-minimal-mistakes
-lang: fr
+
+# Options du thème Minimal Mistakes
+minimal_mistakes_skin: "air"   # Tu peux changer en 'default', 'air', 'architect', etc.
+minimal_mistakes_version: 4.25 # Compatible avec GitHub Pages
+
+# Menu de navigation
+navigation:
+  - title: "Accueil"
+    url: "/"
+  - title: "Projets"
+    url: "/projects/"
+  - title: "Compétences"
+    url: "/skills/"
+  - title: "Contact"
+    url: "/contact/"
+
+# Réseaux sociaux (ajoute ceux que tu veux)
+social:
+  github: "https://github.com/tonnomutilisateur"
+  linkedin: "https://www.linkedin.com/in/tonnomutilisateur"
+  twitter: "https://twitter.com/tonnomutilisateur"
+
+# Options avancées
+paginate: 5           # Nombre d'articles par page si tu ajoutes un blog
