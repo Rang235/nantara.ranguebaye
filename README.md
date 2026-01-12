@@ -72,16 +72,4 @@ Technologies : HTML, CSS, JavaScript, Python, Bases de données
 - **Localisation** : France  
 
 
-## ⚠️ Note importante
 
-> **Ne modifie pas le fichier `_config.yml` original !**  
-> Tous les paramètres sont déjà configurés pour un déploiement GitHub Pages correct.  
-> Tu peux uniquement modifier le contenu des pages (projets, compétences, expériences, contact).
-
-
-## 🚀 Déploiement
-
-1. Cloner le dépôt :  
-```bash
-git clone https://github.com/ton-github/nantara.ranguebaye.git
-cd nantara.ranguebaye
