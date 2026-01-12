@@ -1,7 +1,6 @@
 title: "RANGUEBAYE Nantara"
-logo: img/05.jpg
 description: "Portfolio Expert Réseaux, Infrastructures et Sécurité"
+logo: img/05.jpg
 show_downloads: true
-theme: jekyll-theme-minimal-mistakes
 remote_theme: LeNPaul/portfolio-jekyll-theme
 lang: fr
