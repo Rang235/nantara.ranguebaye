@@ -89,5 +89,5 @@ Technologies : HTML, CSS, JavaScript, Python, Bases de données
 
 1. Cloner le dépôt :  
 ```bash
-git clone https://github.com/ton-github/nom-du-portfolio.git
-cd nom-du-portfolio
+git clone https://github.com/ton-github/nantara.ranguebaye.git
+cd nantara.ranguebaye
