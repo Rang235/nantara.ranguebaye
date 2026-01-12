@@ -16,30 +16,55 @@ Aujourd’hui, je suis engagé dans une **reconversion stratégique vers l’Adm
 👉 Mon objectif : **concevoir, administrer et sécuriser des infrastructures IT fiables, performantes et résilientes**.
 
 
-## 🧠 Compétences clés (orientation ERIS)
+## 🧠 Compétences clés (ERIS & Développement)
 
 ### 🔧 Systèmes & Infrastructures
 - Windows Server, Linux (Debian / Ubuntu)
-- Active Directory (Domaines, OU, GPO, permissions)
+- Active Directory : domaines, OU, GPO, permissions
 - Virtualisation : Hyper-V, VMware
-- Supervision : Zabbix, Wazuh
-- IT Support N1 / N2, documentation technique
+- Supervision & sécurité : Zabbix, Wazuh
+- Support IT N1 / N2, documentation technique
+
+---
 
 ### 🌐 Réseaux
 - TCP/IP, VLAN, DHCP, DNS
 - Adressage IP, segmentation réseau
 - VPN, firewall, supervision réseau
 
+---
+
 ### ☁️ Cloud & Sécurité
 - Microsoft 365 / Azure (bases)
 - Gestion des identités et accès (IAM, MFA)
-- Sécurité des SI, bonnes pratiques
-- Référentiels : **ISO 27001, RGPD, ITIL**
+- Sécurité des systèmes et réseaux
+- Référentiels : ISO 27001, RGPD, ITIL
 
-### 🤖 Automatisation
+---
+
+### 🤖 Automatisation & Scripting
 - Bash
-- PowerShell (bases)
-- Scripts d’administration et maintenance
+- PowerShell
+- Scripts d’administration, maintenance et sécurisation
+
+---
+
+### 💻 Développement & Programmation
+- **Langages** : Python, Java, JavaScript
+- **Web** : HTML5, CSS3, JavaScript
+- **Frameworks** : Django, Flask (bases)
+- **Bases de données** : MySQL, PostgreSQL, MongoDB
+- **Conception applicative** : logique métier, API simples
+- **UI / UX** : bases en design d’interface et expérience utilisateur
+
+---
+
+### 🛠️ Outils & Méthodologies
+- Git / GitHub
+- GLPI, Jira, Trello
+- Méthodes ITIL
+- Documentation technique et reporting
+
 
 
 ## 📂 Projets en Administration Systèmes & Réseaux (ERIS)
