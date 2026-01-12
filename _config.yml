@@ -1,14 +1,12 @@
-# Informations générales du site
+# Informations générales
 title: "RANGUEBAYE Nantara"
 description: "Portfolio Expert Réseaux, Infrastructures et Sécurité (ERIS)"
 lang: fr
 logo: img/05.jpg
 show_downloads: true
 
-# Thème (GitHub Pages compatible)
-theme: jekyll-theme-minimal-mistakes
-minimal_mistakes_skin: "air"
-minimal_mistakes_version: 4.25
+# Thème Minimal Mistakes via remote_theme (compatible GitHub Pages)
+remote_theme: mmistakes/minimal-mistakes@4.25
 
 # Menu de navigation
 navigation:
@@ -29,12 +27,9 @@ navigation:
 social:
   github: "https://github.com/ton-github"
   linkedin: "https://www.linkedin.com/in/ranguebaye-nantara-84957b2b6"
-  twitter: "https://twitter.com/ton-twitter"  # si tu veux ajouter
 
-# Blog / pagination (si tu veux ajouter articles)
+# Options avancées
 paginate: 5
-
-# Options avancées (si besoin)
 exclude:
   - README.md
   - Gemfile
