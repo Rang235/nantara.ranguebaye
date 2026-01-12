@@ -1,53 +1,93 @@
-# Portfolio de RANGUEBAYE Nantara
+# Ranguebaye Nantara – Portfolio ERIS
 
 ![Portfolio](img/05.jpg)
 
-Bienvenue sur mon portfolio en ligne !  
-Je suis un **Expert Réseaux, Infrastructures et Sécurité**.  
-Ce site présente mes projets, compétences et expériences professionnelles et académiques.
+## 👋 À propos de moi
+
+Étudiant en **Mastère Expert Réseaux, Infrastructures et Sécurité (ERIS)** – IMIE Paris  
+En recherche de **stage, alternance ou missions IT** en **Administration Systèmes & Réseaux**  
+Localisation : France – Ouvert aux environnements internationaux  
+
+Informaticien de formation, titulaire d’une **Licence en Informatique**, je me suis spécialisé dans **l’administration systèmes, réseaux et cybersécurité**, avec une solide expérience en **développement web et applicatif**.  
+
+Mon objectif : **concevoir, administrer et sécuriser des infrastructures IT fiables et performantes**.
 
 ---
 
-## ⚡ À propos
+## 💻 Compétences clés
 
-- **Nom :** RANGUEBAYE Nantara  
-- **Spécialité :** Réseaux, Infrastructures et Sécurité  
-- **Langue :** Français  
+**Systèmes & Infrastructures** : Windows Server, Linux, Active Directory (OU/GPO), Virtualisation Hyper-V/VMware, Zabbix, Wazuh, support IT  
 
----
+**Réseaux** : TCP/IP, VLAN, DHCP, DNS, VPN, firewall, supervision réseau  
 
-## 📂 Contenu du Portfolio
+**Cloud & Sécurité** : Microsoft 365 / Azure, IAM, MFA, ISO 27001, RGPD, ITIL  
 
-| Menu         | Description                                    |
-| ------------ | ---------------------------------------------- |
-| Accueil      | Présentation générale                          |
-| Projets      | Mes projets professionnels et académiques     |
-| Compétences  | Mes domaines de maîtrise                       |
-| Contact      | Mes coordonnées et liens vers mes réseaux     |
+**Automatisation & Scripting** : Bash, PowerShell  
+
+**Développement & Programmation** : Python, Java, JavaScript, HTML/CSS, Django/Flask (bases)  
+
+**Outils & Méthodologies** : Git/GitHub, GLPI, Jira, Trello, documentation technique, reporting  
 
 ---
 
-## 🌐 Réseaux sociaux
+## 🏆 Projets
 
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tonnomutilisateur)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonnomutilisateur)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tonnomutilisateur)  
+### Administration Systèmes & Réseaux
+- **Active Directory** – Déploiement d’un domaine sécurisé  
+  [Lien du projet](https://github.com/ton-github/active-directory-lab)  
+
+- **Virtualisation** – Laboratoire IT pour tests  
+  [Lien du projet](https://github.com/ton-github/virtualisation-lab)  
+
+- **Réseau & Supervision** – VLAN, DHCP, DNS, Zabbix  
+  [Lien du projet](https://github.com/ton-github/network-monitoring)  
+
+- **Cloud – Microsoft 365 & Azure** – Gestion identités et MFA  
+  [Lien du projet](https://github.com/ton-github/m365-azure-lab)  
+
+### Développement Web
+- **Sites Web professionnels réalisés** :  
+  - [Caisse des Retraités Civils du Tchad](https://www.crct.td)  
+  - [Tchilamby Student](https://www.tchilambystudent.com)  
+  - [Royal Peldji](http://www.royalpeldji.com)  
+  - [MoneTech](http://www.monetech.td)  
+
+Technologies : HTML, CSS, JavaScript, Python, Bases de données  
+
+---
+
+## 💼 Expériences professionnelles
+
+- **Stagiaire Admin Systèmes & Réseaux – Airtel Tchad**  
+  Administration serveurs Windows/Linux, LAN/VPN/firewall, support IT  
+
+- **Consultant IT – Académie du Nord-Ouest**  
+  Installation, maintenance, support et solutions numériques  
+
+- **Formateur Développement Web**  
+  Conception et animation de formations, encadrement et évaluation  
+
+---
+
+## 📫 Contact
+
+- **Email** : rngnan@gmail.com  
+- **LinkedIn** : [Ranguebaye Nantara](https://www.linkedin.com/in/ranguebaye-nantara-84957b2b6)  
+- **Localisation** : France  
+
+---
+
+## ⚠️ Note importante
+
+> **Ne modifie pas le fichier `_config.yml` original !**  
+> Tous les paramètres sont déjà configurés pour un déploiement GitHub Pages correct.  
+> Tu peux uniquement modifier le contenu des pages (projets, compétences, expériences, contact).
 
 ---
 
 ## 🚀 Déploiement
 
-Ce portfolio est basé sur **Jekyll** avec le thème **[Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)**.  
-
-Pour le cloner et le lancer localement :
-
+1. Cloner le dépôt :  
 ```bash
-# Cloner le dépôt
-git clone https://github.com/tonnomutilisateur/nom-du-portfolio.git
+git clone https://github.com/ton-github/nom-du-portfolio.git
 cd nom-du-portfolio
-
-# Installer les dépendances
-bundle install
-
-# Lancer le serveur local
-bundle exec jekyll serve
