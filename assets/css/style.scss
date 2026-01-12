@@ -1,0 +1,43 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Global */
+body {
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+/* Image de profil */
+.profile-img {
+  max-width: 180px;
+  border-radius: 50%;
+  display: block;
+  margin: 30px auto;
+}
+
+/* Titres */
+h1, h2, h3 {
+  color: #1f6feb;
+}
+
+/* Séparations */
+hr {
+  margin: 2.5rem 0;
+}
+
+/* Listes */
+ul {
+  margin-left: 1.2rem;
+}
+
+/* Liens */
+a {
+  color: #1f6feb;
+  font-weight: 500;
+}
+
+a:hover {
+  text-decoration: underline;
+}
