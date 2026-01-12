@@ -1,27 +1,8 @@
-title: "RANGUEBAYE Nantara"
-description: "Portfolio Expert Réseaux, Infrastructures et Sécurité (ERIS)"
+title: "Ranguebaye Nantara"
+description: "Portfolio – Expert Réseaux, Infrastructures et Sécurité (ERIS)"
 lang: fr
-logo: img/05.jpg
-show_downloads: true
 
 remote_theme: jekyll-theme-minimal
 
-navigation:
-  - title: "Accueil"
-    url: /
-  - title: "À propos"
-    url: /about/
-  - title: "Compétences"
-    url: /skills/
-  - title: "Projets"
-    url: /projects/
-  - title: "Expériences"
-    url: /experience/
-  - title: "Contact"
-    url: /contact/
-
-social:
-  github: https://github.com/ton-github
-  linkedin: https://www.linkedin.com/in/ranguebaye-nantara-84957b2b6
-
-paginate: 5
+logo: img/05.jpg
+show_downloads: true
